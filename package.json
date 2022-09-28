@@ -1,0 +1,24 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "This repository contains the files for the book _Learning React_ by [Alex Banks](https://twitter.com/moontahoe) and [Eve Porcello](https://twitter.com/eveporcello) of [Moon Highway](https://moonhighway.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonHighway/learning-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonHighway/learning-react/issues"
+  },
+  "homepage": "https://github.com/MoonHighway/learning-react#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
